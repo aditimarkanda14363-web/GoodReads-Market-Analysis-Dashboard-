@@ -4,12 +4,9 @@
 
 ---
 
-Project Summary
-This project treats the Goodreads catalogue as a real publisher engagement — the kind a marketing or business analyst at Penguin Random House or HarperCollins would run to guide acquisition, promotion, and investment decisions. Every visualisation answers a specific business or marketing question, and every question leads to a decision recommendation.
+## Project Summary
 
-Dataset: 13,507 books · 5,543 authors · 490M ratings · Genres, page counts, publication years, avg ratings, ratings count · Goodreads Works
-
----
+This project treats the Goodreads catalogue as a real publisher engagement — the kind a marketing or business analyst at Book Company  would run to guide acquisition, promotion, and investment decisions. Every visualisation answers a specific business or marketing question, and every question leads to a decision recommendation.
 
 **Dataset:** 13,507 books · 5,543 authors · 490M ratings · Genres, page counts, publication years, avg ratings, ratings count · Goodreads Works
 
