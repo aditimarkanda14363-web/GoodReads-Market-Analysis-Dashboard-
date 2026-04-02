@@ -82,11 +82,6 @@ All questions are structured across four tiers used in professional business ana
 - Reader behaviour inference from page-count and rating correlation
 - Whitespace content strategy from gap analysis
 
-**Technical**
-- Power BI report design — 4-page interactive dashboard
-- DAX measures for custom metrics (Engagement Rate)
-- Data modelling and field-level transformation in Power BI
-- KPI cards, bar charts, Pareto curve, scatter plot, trend line visualisations
 
 ---
 
